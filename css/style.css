@@ -18,10 +18,16 @@ a{
 span{
     color:#4d5ae5;
 }
-address{
-    text-align: right;
-    margin-right: 100px;
+header {
+    display: flex;
 }
-nav{
-    text-align: left;
+nav {
+    display: flex;
+    margin-left: 50px;
+    gap: 20px;
+}
+address{
+ margin-left: 1000px;
+ gap: 20;
+ 
 }
