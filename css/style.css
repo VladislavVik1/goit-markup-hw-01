@@ -1,9 +1,27 @@
-h1{
-    background-color: #2e2f42;
-}
 button{
-    color: #4d5ae5;
+    background-color: #4d5ae5;
+margin-left: 775px;
+font-size: 125%;
+}
+h1{
+    font-size: 300%;
+text-align: center;
+background-color: #2E2F42;
+color: white;
+}
+.box{
+    background-color: #2e2f42;
 }
 a{
     color: black;
+}
+span{
+    color:#4d5ae5;
+}
+address{
+    text-align: right;
+    margin-right: 100px;
+}
+nav{
+    text-align: left;
 }
