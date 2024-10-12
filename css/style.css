@@ -57,6 +57,7 @@ address{
 
 .fonk{
     display: inline-block;
+padding: 0 auto;
 margin: 0 auto;
 padding-left: 210px;
 width: 270px;
@@ -86,6 +87,8 @@ body, html {
     max-width: 1200px;
     margin: 20px auto;
     text-align: center;
+    padding-bottom: 100px;
+    
 }
 
 .grid {
@@ -116,4 +119,34 @@ body, html {
     margin: 5px 0;
     color: #333;
     font-size: 0.9rem;
+
+}
+.foot p {
+    float: left;
+        width: 20%;
+        padding: 10px;
+        height: 100px;
+        padding-left: 100px;
+}
+.Web {
+    margin: auto;
+    padding-left: 100px;
+}
+
+span2{
+    color: #ffffff;
+}
+.main{
+    max-width: 960px;
+    height: 200px;
+}
+.fut{
+    padding-top: 60px;
+    background-color: #2E2F42;
+
+}
+.main p{
+    float: left;
+width: 200px;
+        height: 50px;
 }
